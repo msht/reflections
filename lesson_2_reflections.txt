@@ -1,0 +1,12 @@
+Q. What happens when you initialize a repository?
+ Why do you need to do it?
+Ans: Git creates a repository with zero commits.
+I need to do it if I want to keep commits at same
+time for multiple files.
+Q. How is the staging area different from
+ the working directory and the repository? 
+What value do you think it offers?
+Ans: The staging area is one step ahead of the
+working directory but one step behind the repository.
+It offers us the choice of which files we want to 
+commit together.
