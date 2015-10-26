@@ -11,4 +11,8 @@ the change and git automatically pulls it, it will be
 pretty annoying. I'm not sure if this could exactly be
 a real scenario but the problems could be something like
 that.
-Q. 
+Q. Describe the differences between forks, clones, and branches.
+ When would you use one instead of another?
+ Ans: Forks for copying repositories within github.
+ Clones for copying repositories within local or from github to local.
+ Branches for working on a new feature inside an existing project.
