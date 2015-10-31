@@ -16,3 +16,11 @@ Q. Describe the differences between forks, clones, and branches.
  Ans: Forks for copying repositories within github.
  Clones for copying repositories within local or from github to local.
  Branches for working on a new feature inside an existing project.
+Q. What is the benefit of having a copy of the last known state of the
+ remote stored locally?
+Ans: I can fix the conflicts offline.
+Q. How would you collaborate without using Git or GitHub?
+ What would be easier, and what would be harder?
+Ans: Collaborating using git and github is easy thanks to forking and
+pull requests,etc. But without git or github these would be harder.
+
