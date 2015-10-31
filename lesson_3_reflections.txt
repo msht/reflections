@@ -23,4 +23,14 @@ Q. How would you collaborate without using Git or GitHub?
  What would be easier, and what would be harder?
 Ans: Collaborating using git and github is easy thanks to forking and
 pull requests,etc. But without git or github these would be harder.
+Q.When would you want to make changes in a separate branch rather than
+ directly in master? What benefits does each approach have?
+Ans: I would use a branch only when it is almost a must because the 
+feature is too experimental or I'm working on a totally different
+language,etc. Working on a branch is beneficial as I can experiment however
+I want without having to worry about breaking the master.
+However, making a branch for too small changes won't be a good idea as
+branching requires a lot of work to keep it up to date with the master.
+
+
 
